@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.swaminarayan.sticker">
+
+    <application
+            android:allowBackup="false"
+            android:fullBackupContent="false"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="faith.swaminarayan.sticker.EntryActivity">
+
+        </activity>
+        <activity
+                android:name="faith.swaminarayan.sticker.StickerPackListActivity"
+                android:label="@string/title_activity_sticker_packs_list"/>
+        <activity
+                android:name="faith.swaminarayan.sticker.StickerPackDetailsActivity"
+                android:parentActivityName="faith.swaminarayan.sticker.StickerPackListActivity"
+                tools:ignore="UnusedAttribute">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="faith.swaminarayan.sticker.StickerPackListActivity"/>
+        </activity>
+        <activity
+                android:name="faith.swaminarayan.sticker.StickerPackInfoActivity"
+                android:label="@string/title_activity_sticker_pack_info"
+                android:parentActivityName="faith.swaminarayan.sticker.StickerPackDetailsActivity"
+                tools:ignore="UnusedAttribute">
+            <meta-data
+                    android:name="android.support.PARENT_ACTIVITY"
+                    android:value="faith.swaminarayan.sticker.StickerPackDetailsActivity"/>
+        </activity>
+
+        <provider
+                android:name="faith.swaminarayan.sticker.StickerContentProvider"
+                android:authorities="${contentProviderAuthority}"
+                android:enabled="true"
+                android:exported="true"
+                android:readPermission="com.whatsapp.sticker.READ"/>
+
+        <activity
+                android:name="faith.swaminarayan.sticker.MainActivity"
+                android:label="@string/title_activity_main"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name="faith.swaminarayan.sticker.SplashActivity"
+                android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

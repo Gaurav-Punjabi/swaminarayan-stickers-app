@@ -1,0 +1,195 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Swaminarayan",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Sahajanand Maharaj",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Narnarayan",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Ghanshyam Maharaj",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Neelkanth Varni",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Hari Krishna",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Radha Krishna",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Laxmi Narayan",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Chin",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        }
+      ]
+    }
+  ]
+}
