@@ -6,7 +6,7 @@
     android:background="@color/infoPageBackgroundColor"
     android:orientation="vertical"
     android:paddingTop="8dp"
-    tools:context="faith.swaminarayan.sticker.StickerPackInfoActivity">
+    tools:context="org.bhujmandir.swaminarayan.stickers.StickerPackInfoActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

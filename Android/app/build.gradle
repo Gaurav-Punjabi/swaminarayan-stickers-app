@@ -5,19 +5,13 @@ android {
     aaptOptions {
         noCompress "webp"
     }
-    signingConfigs {
-        signing_config {
-            keyAlias 'abc'
-            keyPassword '123'
-        }
-    }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "faith.swaminarayan.sticker"
+        applicationId "org.bhujmandir.swaminarayan.stickers"
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "1.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
@@ -59,8 +53,8 @@ private void checkApplicationIdInDebug() {
     properties.load(project.rootProject.file('local.properties').newDataInputStream())
     def ignoreApplicationIdCheck = properties.getProperty('ignoreApplicationIdCheck')
 //    if (ignoreApplicationIdCheck == null) {
-//        if (android.defaultConfig.applicationId.equals("com.swaminarayan.sticker")) {
-//            throw new GradleException("Your applicationId is currently com.swaminarayan.sticker, please change your applicationId to a different string in app/build.gradle in line 16");
+//        if (android.defaultConfig.applicationId.equals("org.bhujmandir.swaminarayan.stickers")) {
+//            throw new GradleException("Your applicationId is currently org.bhujmandir.swaminarayan.stickers, please change your applicationId to a different string in app/build.gradle in line 16");
 //        }
 //    } else {
 //        println("application id check ignored")

@@ -1,12 +1,12 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=org.bhujmandir.swaminarayan.stickers",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Swaminarayan",
+      "name": "Festivals",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
+      "tray_image_file": "tray.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -20,53 +20,113 @@
         },
         {
           "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "1_1",
+      "name": "Swaminarayan",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "tray.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
         }
       ]
     },
     {
       "identifier": "2",
-      "name": "Sahajanand Maharaj",
+      "name": "Narnarayan Dev",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
+      "tray_image_file": "2.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp"
-        },
-        {
           "image_file": "2.webp"
         },
         {
           "image_file": "3.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
         }
       ]
     },
     {
       "identifier": "3",
-      "name": "Narnarayan",
-      "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp"
-        },
-        {
-          "image_file": "2.webp"
-        },
-        {
-          "image_file": "3.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "4",
       "name": "Ghanshyam Maharaj",
       "publisher": "Bhuj Mandir",
       "tray_image_file": "1.webp",
@@ -83,33 +143,117 @@
         },
         {
           "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "RadhaKrishna Dev",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "tray.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
         }
       ]
     },
     {
       "identifier": "5",
-      "name": "Neelkanth Varni",
+      "name": "Text",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
+      "tray_image_file": "tray.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp"
+          "image_file": "4.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "5.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
         }
       ]
     },
     {
       "identifier": "6",
-      "name": "Hari Krishna",
+      "name": "Others",
       "publisher": "Bhuj Mandir",
       "tray_image_file": "1.webp",
       "publisher_email": "",
@@ -125,69 +269,51 @@
         },
         {
           "image_file": "3.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "7",
-      "name": "Radha Krishna",
-      "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "5.webp"
         },
         {
-          "image_file": "3.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "8",
-      "name": "Laxmi Narayan",
-      "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp"
+          "image_file": "8.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "9.webp"
         },
         {
-          "image_file": "3.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "9",
-      "name": "Chin",
-      "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp"
+          "image_file": "10.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "11.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
         }
       ]
     }
