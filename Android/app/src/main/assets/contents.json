@@ -6,7 +6,7 @@
       "identifier": "1",
       "name": "Festivals",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "tray.webp",
+      "tray_image_file": "festivals.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -27,7 +27,7 @@
       "identifier": "6",
       "name": "Text",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "tray.webp",
+      "tray_image_file": "text.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -44,81 +44,6 @@
         },
         {
           "image_file": "5.webp"
-        },
-        {
-          "image_file": "8.webp"
-        },
-        {
-          "image_file": "9.webp"
-        },
-        {
-          "image_file": "10.webp"
-        },
-        {
-          "image_file": "11.webp"
-        },
-        {
-          "image_file": "12.webp"
-        },
-        {
-          "image_file": "13.webp"
-        },
-        {
-          "image_file": "14.webp"
-        },
-        {
-          "image_file": "15.webp"
-        },
-        {
-          "image_file": "16.webp"
-        },
-        {
-          "image_file": "17.webp"
-        },
-        {
-          "image_file": "18.webp"
-        },
-        {
-          "image_file": "19.webp"
-        },
-        {
-          "image_file": "20.webp"
-        },
-        {
-          "image_file": "21.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "1_1",
-      "name": "Swaminarayan",
-      "publisher": "Bhuj Mandir",
-      "tray_image_file": "17.webp",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp"
-        },
-        {
-          "image_file": "2.webp"
-        },
-        {
-          "image_file": "3.webp"
-        },
-        {
-          "image_file": "4.webp"
-        },
-        {
-          "image_file": "5.webp"
-        },
-        {
-          "image_file": "6.webp"
-        },
-        {
-          "image_file": "7.webp"
         },
         {
           "image_file": "8.webp"
@@ -177,10 +102,10 @@
       ]
     },
     {
-      "identifier": "2",
-      "name": "RadhaKrishna Dev",
+      "identifier": "1_1",
+      "name": "Swaminarayan",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "3.webp",
+      "tray_image_file": "swaminarayan.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -202,9 +127,6 @@
           "image_file": "5.webp"
         },
         {
-          "image_file": "6.webp"
-        },
-        {
           "image_file": "7.webp"
         },
         {
@@ -218,6 +140,117 @@
         },
         {
           "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "RadhaKrishna Dev",
+      "publisher": "Bhuj Mandir",
+      "tray_image_file": "radhakrishna.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
         }
       ]
     },
@@ -225,7 +258,7 @@
       "identifier": "3",
       "name": "God",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "tray.webp",
+      "tray_image_file": "god.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -276,7 +309,7 @@
       "identifier": "4",
       "name": "Ganesh & Hanuman",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "7.webp",
+      "tray_image_file": "ganesh.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -320,9 +353,6 @@
         },
         {
           "image_file": "13.webp"
-        },
-        {
-          "image_file": "14.webp"
         }
       ]
     },
@@ -330,7 +360,7 @@
       "identifier": "5",
       "name": "India",
       "publisher": "Bhuj Mandir",
-      "tray_image_file": "1.webp",
+      "tray_image_file": "india.webp",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -344,6 +374,15 @@
         },
         {
           "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
         }
       ]
     },
@@ -391,9 +430,6 @@
           "image_file": "11.webp"
         },
         {
-          "image_file": "12.webp"
-        },
-        {
           "image_file": "13.webp"
         },
         {
@@ -401,6 +437,9 @@
         },
         {
           "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
         }
       ]
     }
